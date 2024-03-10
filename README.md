@@ -16,6 +16,14 @@ Você precisara clonar este repositório: git clone (https://github.com/jg0briel
 ``` python manage.py makemigrations ```
 ``` python manage.py migrate ```
 
+# Pré-Requisito 🗃️
+Dependências que estão no requirements.txt para funcionamento correto da API
+- Python
+- Django 5.0.3
+- Django rest framework
+- Requests
+- Outras dependências presentes no requirements
+
 # Como usar 📝
 - Inicio o servidor da API: ``` python manage.py runserver ```
 - Acessar a API http://127.0.0.1:8000/
