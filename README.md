@@ -24,7 +24,7 @@ Dependências que estão no requirements.txt para funcionamento correto da API
 - Requests
 - Outras dependências presentes no requirements
 
-# Como usar 📝
+# Como usar 💻
 - Inicio o servidor da API: ``` python manage.py runserver ```
 - Acessar a API http://127.0.0.1:8000/
 - Para a acessar a api de fato o link deve estar assim http://127.0.0.1:8000/api/
